@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0205-isomorphic-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
