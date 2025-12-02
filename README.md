@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0205-isomorphic-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0020-valid-parentheses) |
 | [3447-clear-digits](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
