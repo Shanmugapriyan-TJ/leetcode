@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0013-roman-to-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Linked List
