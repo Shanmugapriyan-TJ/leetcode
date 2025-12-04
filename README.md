@@ -41,17 +41,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0013-roman-to-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0206-reverse-linked-list) |
 ## Stack
