@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## String
 |  |
 | ------- |
@@ -88,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
