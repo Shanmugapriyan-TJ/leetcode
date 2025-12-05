@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0205-isomorphic-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0067-add-binary) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0067-add-binary) |
 | [3447-clear-digits](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
