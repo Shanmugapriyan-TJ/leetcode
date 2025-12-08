@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Matrix
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
