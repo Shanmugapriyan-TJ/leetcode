@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0070-climbing-stairs) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1925-count-square-sum-triples) |
@@ -138,8 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0070-climbing-stairs) |
 ## Enumeration
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1925-count-square-sum-triples) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
