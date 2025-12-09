@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3583-count-special-triplets](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3583-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0205-isomorphic-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3583-count-special-triplets](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
