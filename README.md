@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0070-climbing-stairs) |
 ## Enumeration
 |  |
