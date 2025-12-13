@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3468-find-the-encrypted-string) |
+| [3606-coupon-code-validator](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3606-coupon-code-validator) |
 ## Trie
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3531-count-covered-buildings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [3433-count-mentions-per-user](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
