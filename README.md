@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0205-isomorphic-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3468-find-the-encrypted-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0070-climbing-stairs) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Enumeration
 |  |
 | ------- |
