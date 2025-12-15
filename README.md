@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0067-add-binary) |
 | [3433-count-mentions-per-user](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3447-clear-digits) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
