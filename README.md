@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3606-coupon-code-validator) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## String
 |  |
 | ------- |
@@ -172,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Bit Manipulation
 |  |
 | ------- |
