@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3433-count-mentions-per-user](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3606-coupon-code-validator) |
@@ -161,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -217,12 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
