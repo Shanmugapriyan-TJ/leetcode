@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0205-isomorphic-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1360-number-of-days-between-two-dates](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
