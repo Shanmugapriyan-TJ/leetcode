@@ -219,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
