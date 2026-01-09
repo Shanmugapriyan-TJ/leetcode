@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0205-isomorphic-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3531-count-covered-buildings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3583-count-special-triplets) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -238,12 +241,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0101-symmetric-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Brainteaser
 |  |
