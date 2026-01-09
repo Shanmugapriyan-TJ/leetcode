@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
