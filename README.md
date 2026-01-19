@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
