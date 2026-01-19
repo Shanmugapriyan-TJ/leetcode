@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0066-plus-one) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2092-find-all-people-with-secret](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/2092-find-all-people-with-secret) |
