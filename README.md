@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0205-isomorphic-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0520-detect-capital) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shanmugapriyan-TJ/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
